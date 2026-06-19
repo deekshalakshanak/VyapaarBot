@@ -33,4 +33,10 @@ All recommendations are delivered through a daily Morning Business Brief.
 
 ## Prototype Screenshots
 
-(Add screenshots here)
+<img width="1122" height="792" alt="image" src="https://github.com/user-attachments/assets/fe57d2db-7556-4b38-82c2-0b8cc7bf549d" />
+<img width="1122" height="787" alt="image" src="https://github.com/user-attachments/assets/aee40816-f76d-4cbc-934b-f6dbe4fe4ab1" />
+<img width="1116" height="790" alt="image" src="https://github.com/user-attachments/assets/4fdf67e6-f72e-4a71-839d-b64b66a45287" />
+
+
+
+
